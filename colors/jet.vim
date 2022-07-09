@@ -65,8 +65,8 @@ hi WildMenu     guifg=#000000          guibg=#828282   gui=NONE
 hi Boolean      guifg=#616060          guibg=NONE      gui=bold
 hi Ignore       guifg=bg               guibg=NONE      gui=NONE
 hi Error        guifg=#ff7272          guibg=NONE      gui=undercurl
-hi FloatBorder  guifg=#ffffff          guibg=NONE      gui=NONE
-hi NormalFloat  guifg=#ffffff          guibg=NONE      gui=NONE
+hi FloatBorder  guifg=#3f3f3f          guibg=#3f3f3f   gui=NONE
+hi NormalFloat  guifg=#ffffff          guibg=#3f3f3f   gui=NONE
 
 if &t_Co > 255
    hi  Normal             ctermfg=251        ctermbg=0          cterm=NONE
