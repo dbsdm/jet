@@ -87,6 +87,10 @@ hi NvimTreeFileStaged  guifg=#ffffff         guibg=NONE      gui=NONE
 hi NvimTreeFileRenamed guifg=#ffffff         guibg=NONE      gui=NONE
 hi NvimTreeFileIgnored guifg=#ffffff         guibg=NONE      gui=NONE
 
+hi LeapMatch           guifg=#00ff00         guibg=NONE      gui=bold
+hi LeapLabelPrimary    guifg=#ffff00         guibg=NONE      gui=bold
+hi LeapLabelSecondary  guifg=#0000ff         guibg=NONE      gui=bold
+
 if &t_Co > 255
    hi  Normal             ctermfg=251        ctermbg=0          cterm=NONE
    hi  CursorLine         ctermfg=NONE       ctermbg=240        cterm=NONE
