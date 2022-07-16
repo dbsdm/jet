@@ -68,6 +68,8 @@ hi Error               guifg=#ff7272          guibg=NONE      gui=undercurl
 
 hi FloatBorder         guifg=#3f3f3f          guibg=#3f3f3f   gui=NONE
 hi NormalFloat         guifg=#ffffff          guibg=#3f3f3f   gui=NONE
+hi lsp_markdown1       guifg=#ffffff          guibg=#3f3f3f   gui=NONE
+hi markdownH3          guifg=#ffffff          guibg=#3f3f3f   gui=NONE
 
 hi packerWorking       guifg=#ffffff          guibg=#3f3f3f   gui=NONE
 hi packerSuccess       guifg=#00ff00          guibg=#3f3f3f   gui=NONE
